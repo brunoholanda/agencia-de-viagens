@@ -1,0 +1,40 @@
+.contato {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: var(--azul-marinho);
+    color: var(--branco);
+    padding: 1em 0;
+
+    h2 {
+        font-size: 20px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    &__formulario {
+
+        input {
+            border-radius: 8px;
+        }
+        
+        input::placeholder {
+            font-family: var(--fonte);
+            font-size: 14px;
+            text-align: center;
+
+        }
+
+        button {
+            background-color: var(--verde);
+            color: var(--branco);
+            border: none;
+            width: 215px;
+            border-radius: 6px;
+        }
+    }
+}

@@ -1,4 +1,3 @@
-import CampoTexto from 'components/CampoTexto';
 import styles from './Contato.module.scss';
 
 export default function Contato() {
@@ -12,10 +11,11 @@ export default function Contato() {
             </div>
             <form className={styles.contato__formulario}>
                 <h2>Cadastre-se para Novidades</h2>
-                <CampoTexto 
-                    
-                />
-                <CampoTexto />
+                <input placeholder="Seu Nome"></input>
+                <input placeholder="Seu E-mail"></input>
+                <div>
+                    <button>Enviar</button>
+                </div>
             </form>
         </section>
     )

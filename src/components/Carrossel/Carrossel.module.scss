@@ -1,0 +1,23 @@
+.carrossel {
+
+    &__imagens {
+        display: flex;
+        overflow-x: auto;
+        scroll-behavior: smooth;
+
+        img {
+            margin: 0 2em;
+        }
+    }
+
+    &__imagens::-webkit-scrollbar {
+        display: none;
+    }
+
+    button {
+        background-color: transparent;
+        border: none;
+        cursor: pointer;
+        
+    }
+}
