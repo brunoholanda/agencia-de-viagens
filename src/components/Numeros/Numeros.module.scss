@@ -1,0 +1,22 @@
+.numeros {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    padding: .5em 2em;
+    background-color: var(--azul-background);
+
+    h2 {
+        font-size: 20px;
+        color: var(--azul);
+        font-weight: 600;
+    }
+
+    p {
+        font-size: 14px;
+        margin: 0;
+        color: var(--azul-marinho);
+        font-weight: 300;
+    }
+
+}

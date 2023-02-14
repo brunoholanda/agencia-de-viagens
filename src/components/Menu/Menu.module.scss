@@ -1,0 +1,33 @@
+.menu {
+    
+    nav {
+        display: inline-block;
+      }
+    
+      nav ul {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0 1em;
+        margin: 0 0em 0 0;
+        list-style: none;
+        background-color: var(--azul-marinho);
+      }
+    
+      nav li {
+        margin: 1px 0;
+      }
+      
+      nav a {
+        display: block;
+        padding: 10px 1px;
+        color: var(--branco);
+        text-decoration: none;
+      }
+
+}
+
+
+
+
+
