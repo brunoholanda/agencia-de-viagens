@@ -1,7 +1,7 @@
 # Terceiro Projeto CTD - Mobile First com React e SASS
 
 # Descrição do Projeto
-:trophy: Projeto desenvolvido para adaptar uma pagina criada para Descktop na metodologia Mobile First
+:trophy: Projeto desenvolvido para adaptar uma pagina criada para Desktop na metodologia Mobile First
 
 :trophy: Funcionalidade para corretores anunciarem os imoveis sob sua gestão para alugar ou vender (Marketplace)
 
