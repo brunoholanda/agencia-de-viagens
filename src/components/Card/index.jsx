@@ -17,16 +17,16 @@ export default function Card({ id, imagem, oferta, tipo, Valor, titulo, descrica
                     <p>{descricao}</p>
                     <div className={styles.info}>
                         <div className={styles.info__elemento}>
-                            <p>{quartos} Quartos</p>
                             <img src={cama} alt="icone de cama" />
+                            <p>{quartos} Quartos</p>
                         </div>
                         <div className={styles.info__elemento}>
-                            <p>{pessoas} Pessoas</p>
                             <img src={pessoa} alt="icone de pessoa" />
+                            <p>{pessoas} Pessoas</p>
                         </div>
                         <div className={styles.info__elemento}>
-                            <p>{banheiros} Banheiros</p>
                             <img src={banheiro} alt="icone de banheiro" />
+                            <p>{banheiros} Banheiros</p>
                         </div>
                     </div>
                 </div>

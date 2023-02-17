@@ -1,6 +1,13 @@
 .vantagens {
     background-color: var(--azul-background);
     text-align: center;
+    padding: 1em 0;
+
+    h1 {
+        color: var(--azul-marinho);  
+        font-size: 30px;
+        font-weight: 600;
+    }
 
     &__titulo {
         font-size: 18px;

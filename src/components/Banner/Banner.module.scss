@@ -9,12 +9,16 @@
         }
     }
 
-    &__texto {
-        position: absolute;
-        top: 140px;
-        text-align: center;
-        color: var(--branco);
-        padding: 0 1em;
-        font-size: 16px;
-    }
+     
+        h1 {
+            position: relative;
+            top: -80px;
+            text-align: center;
+            color: var(--branco);
+            padding: 0 1em;
+            margin: 0;
+            font-size: 24px;
+        }
+        
+
 }

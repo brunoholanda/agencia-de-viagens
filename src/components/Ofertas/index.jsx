@@ -17,6 +17,7 @@ export default function Ofertas() {
 
     return (
         <section className={styles.ofertas}>
+            <h1>Nossas ofertas</h1>
             {ofertas.map((ofertas) => {
                 return <Card {...ofertas} key={ofertas.id} />
             })}

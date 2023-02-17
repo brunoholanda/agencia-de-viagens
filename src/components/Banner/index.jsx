@@ -7,9 +7,8 @@ export default function Banner() {
             <div className={styles.banner__imagem}>
                 <img src={banner} alt="banner da boom viagens"/>
             </div>
-            <div className={styles.banner__texto}>
                 <h1>Especialista em Viagens e Turismo no Brasil</h1>
-            </div>
+
         </section>
     )
 }
