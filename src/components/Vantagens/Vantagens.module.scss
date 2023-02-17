@@ -1,0 +1,21 @@
+.vantagens {
+    background-color: var(--azul-background);
+    text-align: center;
+
+    &__titulo {
+        font-size: 18px;
+        padding-top: 1em;
+    }
+    
+    &__card {
+        background-color: var(--branco);
+        border-radius: 8px;
+        box-shadow: 0px 4px 9px rgba(0, 0, 0, 0.05);
+        padding: 2em 1.5em;
+        margin: 1em 2em;
+
+        p {
+            font-size: 16px;
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{ "imoveis":
+[
+    {
+        "id": 1,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/1-min.png",
+        "oferta": "Top oferta",
+        "tipo": "Resort",
+        "Valor": "90",
+        "titulo": "Family Aldeia",
+        "descricao": "Family Aldeia é um resort familiar localizado em uma região verde e tranquila, oferecendo uma ampla gama de comodidades e atividades para todas as idades.",
+        "quartos": "5",
+        "pessoas": "9",
+        "banheiros": "3"
+    },
+    {
+        "id": 2,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/2-min.png",
+        "oferta": "",
+        "tipo": "Casa",
+        "Valor": "190",
+        "titulo": "Casa dos Recifes",
+        "descricao": "é um refúgio elegante e luxuoso situado à beira-mar, com vistas deslumbrantes para os recifes de corais e a paisagem marinha.",
+        "quartos": "4",
+        "pessoas": "10",
+        "banheiros": "4"
+    },
+    {
+        "id": 3,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/3-min.png",
+        "oferta": "Top oferta",
+        "tipo": "Vila",
+        "Valor": "200",
+        "titulo": "Refúgio das Colinas",
+        "descricao": "Uma vila privada com vista deslumbrante para as montanhas, oferecendo privacidade e tranquilidade.",
+        "quartos": "12",
+        "pessoas": "26",
+        "banheiros": "6"
+    },
+    {
+        "id": 4,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/4-min.png",
+        "oferta": "",
+        "tipo": "Casa",
+        "Valor": "160",
+        "titulo": "Casa do Mar",
+        "descricao": "Uma casa acolhedora à beira-mar, com vistas deslumbrantes para o mar e a natureza, perfeita para uma escapada relaxante.",
+        "quartos": "5",
+        "pessoas": "9",
+        "banheiros": "3"
+    },
+    {
+        "id": 5,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/5-min.png",
+        "oferta": "",
+        "tipo": "Resort",
+        "Valor": "170",
+        "titulo": "Praia Serena",
+        "descricao": "Um resort com praia privativa, oferecendo comodidades de primeira classe e atividades aquáticas para todas as idades.",
+        "quartos": "5",
+        "pessoas": "9",
+        "banheiros": "3"
+    },
+    {
+        "id": 6,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/6-min.png",
+        "oferta": "Top oferta",
+        "tipo": "Vila",
+        "Valor": "150",
+        "titulo": "Vila das Flores",
+        "descricao": "Uma vila encantadora, cercada por jardins florescidos e paisagens deslumbrantes, oferecendo paz e tranquilidade.",
+        "quartos": "5",
+        "pessoas": "9",
+        "banheiros": "3"
+    },
+    {
+        "id": 7,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/7-min.png",
+        "oferta": "Top oferta",
+        "tipo": "Vila",
+        "Valor": "70",
+        "titulo": "Vila das Águas",
+        "descricao": "Uma vila luxuosa com acesso direto a uma piscina privativa, oferecendo conforto e conveniência para os hóspedes.",
+        "quartos": "5",
+        "pessoas": "9",
+        "banheiros": "3"
+    },
+    {
+        "id": 8,
+        "imagem": "https://nerdking.net.br/wp-content/uploads/2023/02/8-min.png",
+        "oferta": "Top oferta",
+        "tipo": "Casa",
+        "Valor": "230",
+        "titulo": "Casa das Montanhas",
+        "descricao": "Uma casa de classe mundial, com vistas deslumbrantes para as montanhas e uma ampla variedade de atividades ao ar livre.",
+        "quartos": "5",
+        "pessoas": "9",
+        "banheiros": "3"
+    }
+]
+}

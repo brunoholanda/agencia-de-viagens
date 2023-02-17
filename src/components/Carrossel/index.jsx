@@ -22,6 +22,7 @@ export default function Carrossel() {
 
     return (
         <section className={styles.carrossel}>
+            <h2>Pousadas Polulares</h2>
              <button onClick={handleLftClick}><img src={esquerda} alt="seta para a esquerda" /></button>
             <div className={styles.carrossel__imagens} ref={carrossel}>
                 <div>

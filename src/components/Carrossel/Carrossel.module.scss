@@ -1,12 +1,16 @@
 .carrossel {
-
+    text-align: center;
+    font-size: 20px;
+    margin: 1em;
+    
     &__imagens {
         display: flex;
         overflow-x: auto;
         scroll-behavior: smooth;
 
         img {
-            margin: 0 2em;
+            padding: 0 .5em;
+            width: 250px;
         }
     }
 
@@ -15,9 +19,7 @@
     }
 
     button {
-        background-color: transparent;
-        border: none;
-        cursor: pointer;
+        display: none;
         
     }
 }
