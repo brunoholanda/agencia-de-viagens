@@ -3,8 +3,6 @@
 # Descrição do Projeto
 :trophy: Projeto desenvolvido para adaptar uma pagina criada para Desktop na metodologia Mobile First
 
-:trophy: Funcionalidade para corretores anunciarem os imoveis sob sua gestão para alugar ou vender (Marketplace)
-
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 # Funcionalidades
